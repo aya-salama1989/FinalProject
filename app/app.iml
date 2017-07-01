@@ -217,8 +217,5 @@
     <orderEntry type="module" module-name="lib" exported="" />
     <orderEntry type="module" module-name="backend" exported="" />
     <orderEntry type="library" exported="" name="butterknife-annotations-8.6.0" level="project" />
-    <orderEntry type="module" module-name="Androidlibrary" exported="" />
-    <orderEntry type="module" module-name="lib" exported="" />
-    <orderEntry type="module" module-name="backend" exported="" />
   </component>
 </module>

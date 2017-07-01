@@ -12,9 +12,6 @@ import android.widget.ProgressBar;
 
 import com.example.JokesClass;
 import com.fleek.www.jokesuilibrary.JokeDisplayingActivity;
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdView;
-
 
 
 /**
